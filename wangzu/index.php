@@ -5,7 +5,7 @@
     <title>望族美容护肤中心</title>
     <meta name="description" content="望族美容护肤中心望族美容护肤中心望族美容护肤中心望族美容护肤中心">
     <meta name="keywords" content="望族美容护肤中心">
-    <?php include('./includes/meta.php') ;?>
+    <?php include('./includes/meta.php'); ?>
 </head>
 
 <body class="font-hei">
@@ -25,6 +25,24 @@
                     </div>
                 </div>
             </div>
+        </div>
+
+        <div id="banner-tablet">
+            <img src="images/banner.jpg" />
+        </div>
+
+        <div id="banner-mobile">
+            <img src="images/banner-mobile.jpg" />
+        </div>
+
+        <div id="banner-action">
+            <h2>纽约位于美国东北部</h2>
+            <div class="h25 sep-line"></div>
+            <div class="h25"></div>
+            <p>全市有36%的人口是非美国出生的。 纽约的历史可以追溯至1624年</p>
+            <a href="tel:+16466478828">
+                <button class="btn btn-danger btn-lg">马上拔打 (646)-647-8828</button>
+            </a>
         </div>
 
         <div class="sep" style="clear:both;height:100px;"></div>
